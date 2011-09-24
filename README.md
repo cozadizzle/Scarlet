@@ -19,7 +19,7 @@ If you'd like to see how far I've come, feel free to enter the ./src directory a
 
 Please make sure you've installed the:
 
-* Gtk+-3.0 Development packages
+* Gtk+-2.0 Development packages
 * valac Vala Compiler
 
 ## RUNNING

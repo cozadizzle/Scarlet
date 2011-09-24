@@ -1,6 +1,9 @@
 using Gtk;
 
 int main (string[] args) {
+
+	stdout.printf ("This application is licensed under a MIT license and the source is available at\nhttps://github.com/sakjur/Scarlet \n\nFeel free to use for any purpose!\n");
+
 	Gtk.init (ref args);
 
 	try {

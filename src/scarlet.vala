@@ -10,6 +10,7 @@ int main (string[] args) {
 		var build_mainwindow = new Builder (); // Initializing the builder for the main window
 		build_mainwindow.add_from_file ("scarlet.glade"); // Adding the UI XML
 		var mainwindow = build_mainwindow.get_object ("Scarlet") as Window;
+		mainwindow.destroy.connect (Gtk.main_quit);
 		mainwindow.show_all ();
 		Gtk.main ();
 	} catch (Error e) {

@@ -32,10 +32,14 @@ Enter the ./bin directory and write
 
 This will run the main-application
 
+## INSPIRATION
+
+Scarlet is inspired by the [BookWorm](http://danrabbit.deviantart.com/art/BookWorm-239349207) mockup by DanRabbit (at DeviantArt).
+
 ## CONTRIBUTE
 
 Feel free to contribute by adding code to the project.
 
-## CONTACT INFOMATION
+## CONTACT INFORMATION
 
 - Main Developer: Emil "sakjur" Tullstedt <emil@tullstedt.se> [@sakjur](http://twitter.com/sakjur)
